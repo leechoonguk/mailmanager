@@ -2,10 +2,7 @@ HELP.md
 target/
 .mvn
 src/main/frontend/node_modules
-src/main/frontend/build
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+src/main/frontend/build/*
 
 ### STS ###
 .apt_generated
